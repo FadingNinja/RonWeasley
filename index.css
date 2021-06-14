@@ -1,3 +1,13 @@
 body{
     margin : 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.textColor {
+    color : rgb(25 , 115 , 151)
+}
+
+.linkText {
+    padding-top: 40px;
+    color: rgb(25 , 115 , 151);
 }
