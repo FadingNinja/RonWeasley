@@ -1,13 +1,45 @@
 body{
     margin : 5%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background : rgb(244, 242, 242);
 }
 
 .textColor {
-    color : rgb(25 , 115 , 151)
+    color : rgb(25 , 115 , 151);
 }
 
 .linkText {
     padding-top: 40px;
     color: rgb(25 , 115 , 151);
+}
+
+.imgprofile {
+    display : flex;
+    flex-direction : row;
+}
+
+.ronparagraph {
+    padding: 5% 5% 20% 5%;
+    background: white;
+}
+
+.ronimg {
+    text-align: center;
+    border: 2px solid rgb(25 , 115 , 151);
+    padding: 0% 2% 10% 2%;
+    background: rgb(201, 217, 229);
+}
+
+.rontitle {
+    background: rgba(107, 0, 1);
+    color: white;
+    margin: 3px -18px;
+}
+
+.harrytitle {
+    margin: -1px 0px 6px 0px;
+}
+
+.grint {
+    text-align: center;
 }
