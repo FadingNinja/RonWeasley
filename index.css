@@ -26,7 +26,7 @@ body{
 .ronimg {
     text-align: center;
     border: 2px solid rgb(25 , 115 , 151);
-    padding: 0% 2% 10% 2%;
+    padding: 0% 2% 1% 2%;
     background: rgb(201, 217, 229);
 }
 
@@ -46,4 +46,32 @@ body{
 
 .roninfo {
     text-align: left;
+    font-size: 14px;
+}
+
+.appearancecolor {
+    color: rgb(25 , 115 , 151);
+}
+
+.characterizationcolor {
+    color: rgb(25 , 115 , 151);
+}
+
+.ronfamilytreeimg {
+    background-size: contain;
+    width: 95%;
+    height: 95%;
+}
+
+.ronuniverseinfo {
+    background: rgba(107, 0, 1);
+    color: white;
+    margin: 3px -18px;
+}
+
+.roncontents {
+    text-align: center;
+    border: 1px solid rgb(160, 25, 15);
+    padding: 0% 2% 1% 2%;
+    background: rgb(253, 244, 195);
 }
